@@ -1,4 +1,4 @@
-# For list of all problems accross all the years see: https://adventofcode.com/2021/events
+# For list of all problems across all the years see: https://adventofcode.com/2021/events
 
 ### 2015 Questions can be found here: https://adventofcode.com/2015
 
